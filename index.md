@@ -324,3 +324,17 @@ please preview your site before committing, and make sure to run
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% endif %}
+
+<p>
+All the workshop materials are available in the following GitHub Repository:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/git.png">
+  <strong><a href="https://github.com/mq-library-data-skills/2020-hacky-intro-python">https://github.com/mq-library-data-skills/2020-hacky-intro-python</a></strong>
+</p>
+
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
